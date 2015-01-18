@@ -1,0 +1,39 @@
+::-moz-selection{background-color:#93824a;color:#ffffff;}
+::selection{background-color:#93824a;color:#ffffff;}
+.tagcloud a,.tagcloud a[class*="tag"],.page-tags a,.page-tags a[class*="tag"]{color:#ffffff;}
+a{color:#93824e;}
+a:hover,a:focus{color:#825e17;}
+.site-header a,.sf-menu .sub-menu a,#ajax-popup a,.entry-header .comments-link a,#portable-header .comments-link a,.entry-date a,.page-links .pagination-item a,.page-links .page-numbers a a,.page-links .current a,.page-links .dots a,.site-sidebar .widget-title a,.error404 .site-sidebar .widgettitle a,.site-footer a,.widget_calendar #today,.widget_calendar #today a{color:#ffffff;}
+.page-links .pagination-item:hover,.page-links .page-numbers a:hover,.page-links .current:hover,.page-links .dots:hover{background-color:#93824a;}
+ul.icon-list li:hover .batch{color:#825e17;}
+blockquote:before,.theme-color,.site-title,.entry-content li:before,.entry-title a:hover,.entry-meta a:hover,.horizontal-scroll .vertical-title-container{color:#93824a;}
+.button:hover,.pure-button:hover,#submit:hover,.submit:hover,input[type=submit]:hover,.tagcloud a:hover,.tagcloud a[class*="tag"]:hover,.page-tags a:hover,.page-tags a[class*="tag"]:hover{background-color:#b2ac7c;}
+.is-author,.button,.pure-button,#submit,.submit,input[type=submit],.theme-bg,.accent-bg,.widget_calendar caption,.widget_calendar #today,.tagcloud a,.tagcloud a[class*="tag"],.page-tags a,.page-tags a[class*="tag"],ul.icon-list li:hover div,.horizontal-scroll #scrollbar .thumb{background-color:#93824a;}
+.kilo a,h1 a,.alpha a,h2 a,.beta a,#reply-title a,h3 a,.gamma a,.comments-title a,h4 a,.delta a,.site-sidebar .widget-title a,.error404 .site-sidebar .widgettitle a,.widget_rss li a.rsswidget a,h5 a,.epsilon a,h6 a,.zeta a,.kilo a:visited,h1 a:visited,.alpha a:visited,h2 a:visited,.beta a:visited,#reply-title a:visited,h3 a:visited,.gamma a:visited,.comments-title a:visited,h4 a:visited,.delta a:visited,.site-sidebar .widget-title a:visited,.error404 .site-sidebar .widgettitle a:visited,.widget_rss li a.rsswidget a:visited,h5 a:visited,.epsilon a:visited,h6 a:visited,.zeta a:visited,.accent-color{color:#031a21;}
+.site-header,.sf-menu .sub-menu,#ajax-popup,.entry-header .comments-link,#portable-header .comments-link,.entry-date,.page-links .pagination-item,.page-links .page-numbers a,.page-links .current,.page-links .dots,.site-sidebar .widget-title,.error404 .site-sidebar .widgettitle,.site-footer,.widget_calendar thead th,.site-footer .widget_calendar td:hover,.site-footer .widget_calendar tbody td.pad,.horizontal-scroll .vertical-title-container,.horizontal-scroll #scrollbar .track{background-color:#031a21;}
+.site-footer .widget_calendar thead th{background-color:#171717;}
+input[type=text]:focus,input[type=email]:focus,.searchfield:focus,textarea:focus,.sf-menu>.menu-item>.sub-menu:before,.sf-menu .sub-menu,#ajax-popup,#popup-arrow,.bypostauthor>.comment .avatar,.is-author img,#footer-arrow,#footer-content,.pure-spacer.theme,a.wpp-thumbnail:hover,.site-footer a.wpp-thumbnail{border-color:#93824a;}
+
+.entry-header .comments-link:before,#portable-header .comments-link:before,.site-sidebar .widget-title:before,.error404 .site-sidebar .widgettitle:before,.widget_calendar thead th,.site-footer .widget_calendar thead,.pure-spacer.accent{border-color:#050505;}
+.button,.pure-button,#submit,.submit,input[type=submit],.widget_calendar #today{border-color:#825e17;}
+.horizontal-scroll .vertical-title-container .arrow-bottom{border-top-color:#050505;}
+.sf-menu .sub-menu .menu-item{border-color:#171717;}
+.horizontal-scroll .vertical-title-container .arrow-right{border-left-color:#050505;} 
+
+/* ------------------------------------------------------------------------------------------------------------ */
+.site-header a:hover{
+		color: #93824e;
+	}
+h2, h5{
+	font-family: 'Merienda', cursive; 
+	font-weight: 250; 
+	text-align: center;
+	font-size: 70;
+
+}
+p, h4, h3, h6, li{
+	font-family: 'Merienda', cursive; 
+	font-weight: 250; 
+	text-align: center;
+
+}
