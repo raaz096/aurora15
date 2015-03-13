@@ -74,83 +74,109 @@
 }
 
 .ch-img-1 { 
-	background-image: url(../images/1.png);
+	background-image: url(../images/team/coo/sikka.jpg);
 	z-index: 12;
 }
 
 .ch-img-2 { 
-	background-image: url(../images/7.png);
+	background-image: url(../images/team/coo/sunny.jpg);
 	z-index: 11;
 }
 
 .ch-img-3 { 
-	background-image: url(../images/7.png);
+	background-image: url(../images/team/coo/mba1.jpg);
 	z-index: 10;
 }
 
 .ch-img-4 { 
-	background-image: url(../images/7.jpg);
+	background-image: url(../images/team/coo/mba2.jpg);
 	z-index: 12;
 }
 
 .ch-img-5 { 
-	background-image: url(../images/7.png);
+	background-image: url(../images/team/coo/mukesh.jpg);
 	z-index: 11;
 }
 
 .ch-img-6 { 
-	background-image: url(../images/6.png);
+	background-image: url(../images/team/emt/emt.jpg);
 	z-index: 10;
 }
 
 .ch-img-7 { 
-	background-image: url(../images/7.png);
+	background-image: url(../images/team/emt/pongo.jpg);
 	z-index: 12;
 }
 
 .ch-img-8 { 
-	background-image: url(../images/8.png);
+	background-image: url(../images/team/emt/amit.jpg);
 	z-index: 11;
 }
 
 .ch-img-9 { 
-	background-image: url(../images/7.png);
+	background-image: url(../images/team/emt/nikhil.jpg);
 	z-index: 10;
 }
 
 .ch-img-10 { 
-	background-image: url(../images/7.jpg);
+	background-image: url(../images/team/emt/yugarshi.jpg);
 	z-index: 12;
 }
 
 .ch-img-11 { 
-	background-image: url(../images/7.png);
+	background-image: url(../images/team/emt/anshika.jpg);
 	z-index: 11;
 }
-
 .ch-img-12 { 
-	background-image: url(../images/7.png);
-	z-index: 10;
+	background-image: url(../images/team/emt/srs.jpg);
+	z-index: 11;
 }
-
-.ch-img-13{ 
-	background-image: url(../images/7.jpg);
-	z-index: 12;
+.ch-img-13 { 
+	background-image: url(../images/team/pr/shan.jpg);
+	z-index: 10;
 }
 
 .ch-img-14 { 
-	background-image: url(../images/7.png);
-	z-index: 11;
+	background-image: url(../images/team/pr/shreya.jpg);
+	z-index: 12;
 }
 
 .ch-img-15 { 
-	background-image: url(../images/7.png);
+	background-image: url(../images/team/promo/lumiya.jpg);
+	z-index: 18;
+}
+.ch-img-16 { 
+	background-image: url(../images/team/promo/sachin.jpg);
+	z-index: 18;
+}
+.ch-img-17 { 
+	background-image: url(../images/team/promo/raunak.jpg);
+	z-index: 11;
+}
+
+.ch-img-18 { 
+	background-image: url(../images/team/web/web.jpg);
 	z-index: 10;
 }
 
-.ch-img-16 { 
-	background-image: url(../images/16.jpg);
-	z-index: 10;
+.ch-img-19 { 
+	background-image: url(../images/team/web/kk.jpeg);
+	z-index: 11;
+}
+
+.ch-img-20 { 
+	background-image: url(../images/team/web/mojo.jpg);
+	z-index: 13;
+}
+
+.ch-img-21 {
+	background-image: url(../images/team/web/jyoti.jpg);
+	z-index: 13;
+}
+
+.ch-img-22 { 
+	background-image: url(../images/team/in/rajjo.jpg);
+	z-index: 14;
 }
 
 .ch-info {
